@@ -1,0 +1,45 @@
+Adnan Y. Mutee
+
+
+BitSlash
+Self-evaluation/Description of Game
+
+This game was inspired by Shovel Knight. I always wanted to create my own 
+
+version of a plat-former so that’s why I decided to create one. Overall, I want 
+
+the art work and the gameplay to be  Mega-Man 2-esque. 
+
+I made the control for this game very simple. The arrow keys are directional 
+
+input followed by the letter F which  attacks. The currently demoed level one is 
+
+mostly simple to complete.  The level is made out of moving platforms, ghosts which 
+
+are represented by  bunch of gray square for this first iteration. The moving 
+
+platforms don’t have any friction so it makes it harder to play, but I might just add in 
+
+the friction feature.  If a jump is missed between platforms the player is killed by an 
+
+invisible  trigger colliders. The goal of the game is to reach the end of the first level 
+
+and reach a turquoise platform which ends the game.  I put in two obstacles which 
+
+are controlled by a key  and the players must collect the keys in order to move the 
+
+obstacles out of the way.  I also added in ladders in the game because all plat-
+
+formers have ladders. 
+
+	In terms of self evaluation, I believe I could have added much more, but I 
+
+wanted to mainly focus on the level design and the mechanics. Overall, the first level 
+
+is unexciting, but it’s meant to be more of a first level where the player get used to
+
+ the controls and what not. Moving forward, I have lots of great things I want to add 
+
+in terms of mechanics and gameplay which are not crucial as of now, but I will add
+
+ them as time passes. 
