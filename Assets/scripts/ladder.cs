@@ -17,14 +17,23 @@ public class ladder : MonoBehaviour {
 
 	void OnTriggerStay2D(Collider2D other) {
 		if (other.tag == "Player" && Input.GetKey (KeyCode.UpArrow)) {
+			other.GetComponent<Rigidbody2D> ().constraints = RigidbodyConstraints2D.FreezeRotation;
 			other.GetComponent<Rigidbody2D> ().velocity = new Vector2 (0, climbSpeed);
 		} else if (other.tag == "Player" && Input.GetKey (KeyCode.DownArrow)) {
+			other.GetComponent<Rigidbody2D> ().constraints = RigidbodyConstraints2D.FreezeRotation;
 			other.GetComponent<Rigidbody2D> ().velocity = new Vector2 (0, -climbSpeed);
-		} else {
-			other.GetComponent<Rigidbody2D> ().velocity = new Vector2 (0, 0.6f);
+		} else if (other.tag == "Player"){
+			other.GetComponent<Rigidbody2D> ().velocity = new Vector2 (0, 0);
+			other.GetComponent<Rigidbody2D> ().constraints = RigidbodyConstraints2D.FreezePositionY | RigidbodyConstraints2D.FreezeRotation;
 		}
+			
+	}
 
-
+	void OnTriggerExit2D (Collider2D other)
+	{
+		if (other.tag == "Player") {
+			other.GetComponent<Rigidbody2D> ().constraints = RigidbodyConstraints2D.FreezeRotation;
+		}
 	}
 
 }

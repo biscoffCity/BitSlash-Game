@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: 1a810e69400704c8cbd2993eae495c71
+timeCreated: 1480468213
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RealFire_0
+    21300002: RealFire_1
+    21300004: RealFire_2
+    21300006: RealFire_3
+    21300008: RealFire_4
+    21300010: RealFire_5
+    21300012: RealFire_6
+    21300014: RealFire_7
+    21300016: RealFire_8
+    21300018: RealFire_9
+    21300020: RealFire_10
+    21300022: RealFire_11
+    21300024: RealFire_12
+    21300026: RealFire_13
+    21300028: RealFire_14
+    21300030: RealFire_15
+    21300032: RealFire_16
+    21300034: RealFire_17
+    21300036: RealFire_18
+    21300038: RealFire_19
+    21300040: RealFire_20
+    21300042: RealFire_21
+    21300044: RealFire_22
+    21300046: RealFire_23
+    21300048: RealFire_24
+    21300050: RealFire_25
+    21300052: RealFire_26
+    21300054: RealFire_27
+    21300056: RealFire_28
+    21300058: RealFire_29
+    21300060: RealFire_30
+    21300062: RealFire_31
+    21300064: RealFire_32
+    21300066: RealFire_33
+    21300068: RealFire_34
+    21300070: RealFire_35
+    21300072: RealFire_36
+    21300074: RealFire_37
+    21300076: RealFire_38
+    21300078: RealFire_39
+    21300080: RealFire_40
+    21300082: RealFire_41
+    21300084: RealFire_42
+    21300086: RealFire_43
+    21300088: RealFire_44
+    21300090: RealFire_45
+    21300092: RealFire_46
+    21300094: RealFire_47
+    21300096: RealFire_48
+    21300098: RealFire_49
+    21300100: RealFire_50
+    21300102: RealFire_51
+    21300104: RealFire_52
+    21300106: RealFire_53
+    21300108: RealFire_54
+    21300110: RealFire_55
+    21300112: RealFire_56
+    21300114: RealFire_57
+    21300116: RealFire_58
+    21300118: RealFire_59
+    21300120: RealFire_60
+    21300122: RealFire_61
+    21300124: RealFire_62
+    21300126: RealFire_63
+    21300128: RealFire_64
+    21300130: RealFire_65
+    21300132: RealFire_66
+    21300134: RealFire_67
+    21300136: RealFire_68
+    21300138: RealFire_69
+    21300140: RealFire_70
+    21300142: RealFire_71
+    21300144: RealFire_72
+    21300146: RealFire_73
+    21300148: RealFire_74
+    21300150: RealFire_75
+    21300152: RealFire_76
+    21300154: RealFire_77
+    21300156: RealFire_78
+    21300158: RealFire_79
+    21300160: RealFire_80
+    21300162: RealFire_81
+    21300164: RealFire_82
+    21300166: RealFire_83
+    21300168: RealFire_84
+    21300170: RealFire_85
+    21300172: RealFire_86
+    21300174: RealFire_87
+    21300176: RealFire_88
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RealFire_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 292
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 292
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 292
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 292
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 292
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 292
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 292
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 270
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 264
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 265
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 263
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 263
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 241
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 242
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 244
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 244
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 242
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 212
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 212
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 214
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 213
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 191
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 191
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 191
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_35
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 163
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 164
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 162
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 162
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 140
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_40
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 141
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 143
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 143
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 141
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_44
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 111
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 113
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_47
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 112
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_48
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_49
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 90
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 90
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_52
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 90
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_53
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 90
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_54
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 90
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_55
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 90
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_56
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 90
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_58
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_59
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_60
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 62
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_61
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 61
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_63
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 61
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 39
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_65
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 40
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_66
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 42
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_67
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 42
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_68
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 40
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_69
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 10
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 10
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_71
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_72
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 11
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_73
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_76
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_77
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_78
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_80
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_81
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_83
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_84
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_86
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_87
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RealFire_88
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
